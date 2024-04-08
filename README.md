@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Timothy Chinembiri</h1>
 <h3 align="center">I’m a young dynamic and driven software developer with a passion for crafting innovative solutions. Armed with a diploma in Software Engineering, [he/she/they] thrives in collaborative environments where I can contribute fresh ideas and tackle complex challenges. With a keen eye for detail and a dedication to continuous learning, I poise to make a significant impact in the world of technology</h3>
+<img align-"right" alt-"Coding" width="400" src-"https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"›
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=timothychinembiri&label=Profile%20views&color=0e75b6&style=flat" alt="timothychinembiri" /> </p>
 

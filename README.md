@@ -27,3 +27,5 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=timothychinembiri&show_icons=true&locale=en&layout=compact" alt="timothychinembiri" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=timothychinembiri&" alt="timothychinembiri" /></p>
+
+![Snake animation](https://github.com/timothychinembiri/timothychinembiri/blob/output/github-contribution-grid-snake.svg)

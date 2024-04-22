@@ -5,7 +5,7 @@
   
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=timothychinembiri&label=Profile%20views&color=0e75b6&style=flat" alt="timothychinembiri" /> </p>
 
-- 🔭 I’m currently working on a **website for a charity**
+- 🔭 I’m currently working on a **Banking Application using C#**
 
 - 🌱 I’m currently learning **Cybersecurity**
 
